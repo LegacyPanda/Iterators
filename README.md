@@ -4,9 +4,9 @@
 - Learn to use vectors, auto keyword and the algorithm library
 
 ## Libraries
-- <algorithm>
-- <iostream>
-- <vector>
+- algorithm
+- iostream
+- vector
 
 
 ## 2025-01-27
